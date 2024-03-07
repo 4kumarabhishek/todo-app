@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: yellowgreen;
+}
+
+h1 {
+  color: purple;
+}
+
+input {
+  border-radius: 10px;
+  border: 2px solid violet;
+  padding: 0.5rem;
+  background-color: greenyellow;
+}
+
+button {
+  border-radius: 10px;
+  color: white;
+  background-color: purple;
+}
+
+.delete {
+  font-size: 10px;
+  margin-left: 1rem;
+  background-color: black;
+}
